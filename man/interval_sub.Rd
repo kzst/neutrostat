@@ -14,9 +14,9 @@ interval_sub(data)
 
 \value{A numeric vector of length 2,indicating a substracted value of neutrosophic intervals}
 \references{
-Moore, R. E. (1979): Methods and applications of interval analysis.SIAM, \href{https://doi.org/10.1137/1.9781611970906}{doi:10.1137/1.9781611970906}.
-Smarandache, F (2022):Neutrosophic Statistics is an extension of Interval Statistics, while Plithogenic Statistics is the most general form of statistics(second version).Internation journal of neutrosophic science. 19(1),pp.148-165.\href{https://doi.org/10.54216/IJNS.190111}{doi:10.54216/IJNS.190111}.
+Moore, R. E. (1979): Methods and applications of interval analysis.SIAM. doi:10.1137/1.9781611970906
 
+Smarandache, F (2022):Neutrosophic Statistics is an extension of Interval Statistics, while Plithogenic Statistics is the most general form of statistics(second version).Internation journal of neutrosophic science. 19(1),pp.148-165. doi:10.54216/IJNS.190111.
 
 }
 \author{

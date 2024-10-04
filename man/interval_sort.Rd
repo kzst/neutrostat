@@ -14,7 +14,7 @@ interval_sort(data)
 List of intervals in asceding order.
 }
 \references{
-Moore, R. E. (1979): Methods and applications of interval analysis.SIAM, \href{https://doi.org/10.1137/1.9781611970906}{doi:10.1137/1.9781611970906}.
+Moore, R. E. (1979): Methods and applications of interval analysis.SIAM. doi:10.1137/1.9781611970906
 }
 \author{
 Zahid Khan

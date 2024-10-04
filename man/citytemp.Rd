@@ -28,9 +28,9 @@ The data was collected for each city over 31 days in July 2022. It includes both
 }
 \source{https://www.gismeteo.com/}
 \references{
-
-Ishmal Shahzadi (2023): Neutrosophic Statistical Analysis of Temperature of Different Cities of Pakistan. Neutrosophic Sets and Systems, 53(1). Zenodo. \href{https://doi.org/10.5281/zenodo.7535991}{doi:10.5281/zenodo.7535991}.
+Ishmal Shahzadi (2023): Neutrosophic Statistical Analysis of Temperature of Different Cities of Pakistan. Neutrosophic Sets and Systems, 53(1). doi:10.5281/zenodo.7535991
 }
+
 \examples{
 # list of temperature data for Gujranwala city
 G <- mapply(function(low, high) list(c(low, high)),

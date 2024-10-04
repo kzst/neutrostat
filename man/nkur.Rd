@@ -15,8 +15,8 @@ An interval value of  coefficeint of Kurtosis.
 }
 \references{
 Florentin Smarandache (2014): Introduction to Neutrosophic Statistics. ISBN: 9781599732749
-Here is the reference formatted according to the provided example:
-Aslam, Muhammad (2021): A study on skewness and kurtosis estimators of wind speed distribution under indeterminacy, Theoretical and Applied Climatology, 143(3), pages 1227-1234. \href{https://doi.org/10.1007/s00704-020-03509-5}{doi:10.1007/s00704-020-03509-5}.
+
+Aslam, Muhammad (2021): A study on skewness and kurtosis estimators of wind speed distribution under indeterminacy, Theoretical and Applied Climatology, 143(3), pp. 1227-1234. doi:10.1007/s00704-020-03509-5
 }
 \author{
 Zahid Khan

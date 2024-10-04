@@ -33,7 +33,7 @@ Monthly high and low gold prices in Chennai, Kolkatta, and Bangalore. These can 
 Indian Daily Gold Prices Android App
 }
 \references{
- Kala Raja Mohan, R. Narmada Devi, Nagadevi Bala Nagaram, T. Bharathi, and Suresh Rasappan (2023): Neutrosophic Statistical Analysis on Gold Rate. Neutrosophic Sets and Systems, 60(1). Zenodo. \href{https://doi.org/10.5281/zenodo.10224140}{doi:10.5281/zenodo.7535991}
+ Kala Raja Mohan, R. Narmada Devi, Nagadevi Bala Nagaram, T. Bharathi, and Suresh Rasappan (2023): Neutrosophic Statistical Analysis on Gold Rate. Neutrosophic Sets and Systems, 60(1). doi:10.5281/zenodo.7535991
 }
 \examples{
 #list of low and high gold price for Chennai City

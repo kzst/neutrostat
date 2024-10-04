@@ -20,7 +20,7 @@ This data provides an analysis of dioxin intake and its potential health impacts
 The dataset was collected and monitored by the Ministry of Environment, Japan, as reported in their environmental statistics
 }
 \references{
-Zahid Khan, Mohammed M. A. Almazah, Omalsad Hamood Odhah, and Huda M. Alshanbari (2022): Generalized Pareto Model: Properties and Applications in Neutrosophic Data Modeling. Mathematical Problems in Engineering, 2022(1). Hindawi. \href{https://doi.org/10.1155/2022/3686968}{doi:10.1155/2022/3686968}
+Zahid Khan, Mohammed M. A. Almazah, Omalsad Hamood Odhah, and Huda M. Alshanbari (2022): Generalized Pareto Model: Properties and Applications in Neutrosophic Data Modeling. Mathematical Problems in Engineering, 2022(1). doi:10.1155/2022/3686968
 }
 \examples{
 data(dioxin)
