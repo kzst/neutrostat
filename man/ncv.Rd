@@ -17,7 +17,7 @@ Interval cv value.
 Florentin Smarandache (2014): Introduction to Neutrosophic Statistics. ISBN: 9781599732749
 Hussein Al-Marshadi, Ali and Aslam, Muhammad and Abdullah, Alharbey (2021): Uncertainty-Based Trimmed Coefficient of Variation with Application, Journal of Mathematics, 2021(1), pages 5511904. Wiley Online Library. doi:10.1155/2021/5511904
 
-Kandemir, Hacer Şengül and Aral, Nazlım Deniz and Karakaş, Murat and Et, Mikail (2024): Neutrosophic Statistical Analysis of Temperatures of Cities in the Southeastern Anatolia Region of Turkey, Neutrosophic Systems with Applications, 14, pages 50-59. doi:10.61356/j.nswa.2024.119
+Kandemir, Hacer Şengül and Aral, Nazlım Deniz and Karakaş, Murat and Et, Mikail (2024): Neutrosophic Statistical Analysis of Temperatures of Cities in the Southeastern Anatolia Region of Turkey, Neutrosophic Systems with Applications, 14, pp. 50-59. doi:10.61356/j.nswa.2024.119
 }
 \author{
 Zahid Khan
