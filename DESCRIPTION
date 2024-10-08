@@ -1,12 +1,12 @@
 Package: neutrostat
 Type: Package
-Title: R Package for Neutrosophic Statistics
+Title: Neutrosophic Statistics
 Version: 0.0.1
-Authors@R: c(
+Author: c(
     person("Zahid", "Khan", role = "aut"),
     person("Zsolt T.","Kosztyan",email="kosztyan.zsolt@gtk.uni-pannon.hu", role = c("aut", "cre")))
 Maintainer: Zsolt T. Kosztyan <kosztyan.zsolt@gtk.uni-pannon.hu>
-Description: Provides tools for summarizing and describing the characteristics of neutrosophic numerical data defined by Florentin Smarandache (2013).<ISBN:9781599732749>.
+Description:Analyzes data involving imprecise and vague information. Provides summary statistics and describes the characteristics of neutrosophic data, as defined by Florentin Smarandache (2013).<ISBN:9781599732749>.
 License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
