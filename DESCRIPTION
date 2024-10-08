@@ -2,7 +2,7 @@ Package: neutrostat
 Type: Package
 Title: Neutrosophic Statistics
 Version: 0.0.1
-Author: c(
+Authors@R: c(
     person("Zahid", "Khan", role = "aut"),
     person("Zsolt T.","Kosztyan",email="kosztyan.zsolt@gtk.uni-pannon.hu", role = c("aut", "cre")))
 Maintainer: Zsolt T. Kosztyan <kosztyan.zsolt@gtk.uni-pannon.hu>
