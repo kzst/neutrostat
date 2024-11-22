@@ -1,0 +1,18 @@
+bibentry(
+    header       = "To cite 'netrostat' in publications use:",
+    bibtype      = "manual",
+    title        = "neutrostat: Neutrosophic Statistics",
+    author       = c(
+    person("Zahid", "Khan", role = c("aut")),
+    person("Zsolt T.", "Kosztyan", email="kosztyan.zsolt@gtk.uni-pannon.hu", role = c("aut", "cre"))
+    ),
+    journal      = "CRAN Official Web Page",
+    year         = 2024,
+    pages        = "",
+    volume       = "",
+    doi          = "",
+    url          = "https://github.com/kzst/neutrostat/",
+    textVersion  =
+    paste("Saghir, Kosztyan (2023).",
+          "pbcc: an R package for Percentile-based Control Chart")
+)
